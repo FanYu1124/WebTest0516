@@ -17,7 +17,7 @@ window.onscroll = () => {
     }
 }
 
-const scriptURL='https://script.google.com/macros/s/AKfycbylWqV9Y_XxEr7mOWgdgCb-LolYu5Ua41uZK6drVC_Llguxpogt2AR0kosoJHvt0CgPig/exec';
+const scriptURL='https://script.google.com/macros/s/AKfycbxFKoq_TyK74UOPSKMZccb_IJ12DUya72D8pFCa-_tT0i1NnmewUJjjVAnTlvBkR08o_w/exec';
 const form = document.forms['orderlist'];
 	  
 form.addEventListener('submit', e => {
